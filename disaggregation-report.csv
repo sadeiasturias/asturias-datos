@@ -1,2 +1,6 @@
 Disaggregation,en,Number of indicators,Number of values
+Age,Age,1,4
 Group,Group,1,2
+Location,Location,1,2
+Sex,Sex,1,2
+Type,Type,1,1
