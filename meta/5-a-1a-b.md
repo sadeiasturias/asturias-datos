@@ -1,6 +1,6 @@
 ---
-computation_units: PT
 indicator_number: 5.a.1a
+computation_units: "Porcentaje"
 data_non_statistical: false
 indicator_name: "Proporción de hombres titulares de explotaciones agrícolas, respecto al total de hombres trabajadores en la agricultura"
 reporting_status: complete

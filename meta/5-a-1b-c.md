@@ -1,6 +1,6 @@
 ---
-computation_units: PT
 indicator_number: 5.a.1b
+computation_units: "Porcentaje"
 data_non_statistical: false
 indicator_name: "Proporción de mujeres titulares de explotaciones agrícolas en arrendamiento, respecto al total de titulares de explotaciones agrícolas en arrendamiento"
 reporting_status: complete
