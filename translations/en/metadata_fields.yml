@@ -9,7 +9,7 @@ computation_units: Unit of measurement
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: Methodology #Link to UN metadata
 # date in text format
-data_last_update: Data last updated
+data_last_update: "Data last updated (dd/mm/yyyy)"
 # A label describing information - the numeric code for a particular indicator
 indicator: Indicator number
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
