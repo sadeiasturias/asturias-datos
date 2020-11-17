@@ -59,19 +59,6 @@ prose:
             label: "UN custodian agency"
             translation_key: metadata_fields.un_custodian_agency
             scope: global
-      - name: "goal_meta_link"
-        field:
-            element: text
-            label: "Link to UN metadata"
-            translation_key: metadata_fields.goal_meta_link
-            scope: global
-      - name: "goal_meta_link_text"
-        field:
-            element: text
-            label: "Link to UN metadata text"
-            translation_key: metadata_fields.goal_meta_link_text
-            value: "UN metadata"
-            scope: global
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
@@ -85,18 +72,18 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
-      - name: "target_name"
-        field:
-            element: text
-            label: "Target name"
-            translation_key: metadata_fields.target
-            scope: national
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target number"
-            translation_key: metadata_fields.target_id
-            scope: national
+#      - name: "target_name"
+#        field:
+#            element: text
+#            label: "Target name"
+#            translation_key: metadata_fields.target
+#            scope: national
+#      - name: "target_id"
+#        field:
+#            element: text
+#            label: "Target number"
+#            translation_key: metadata_fields.target_id
+#            scope: national
       - name: "computation_definitions"
         field:
             element: textarea
@@ -139,29 +126,18 @@ prose:
             label: "Rationale and interpretation"
             translation_key: metadata_fields.rationale_interpretation
             scope: national
-      - name: "national_data_update_url"
+      - name: "goal_meta_link"
         field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
+            element: text
+            label: "Link to metadata"
+            translation_key: metadata_fields.goal_meta_link
             scope: national
-      - name: "national_data_update_url_text"
+      - name: "goal_meta_link_text"
         field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url_text
-            scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
-            scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url_text
+            element: text
+            label: "Link to metadata text"
+            translation_key: metadata_fields.goal_meta_link_text
+            value: "Metadata"
             scope: national
       - name: "data_last_update"
         field:
