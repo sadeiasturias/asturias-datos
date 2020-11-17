@@ -1,7 +1,7 @@
 ---
 indicator_number: 5.a.1a
-indicator_name: "Proporción de titulares de explotaciones agrícolas, respecto al total de personas trabajadoras en la agricultura"
-national_indicator_description: "Proporción de titulares de explotaciones agrícolas, respecto al total de personas trabajadoras en la agricultura"
+indicator_name: regional_indicators.5-a-1a-a-title
+national_indicator_description: regional_indicators.5-a-1a-a-title
 computation_units: "Porcentaje"
 national_geographical_coverage: Asturias
 source_active_1: true
@@ -11,6 +11,6 @@ goal_meta_link_text: Nota metodológica del indicador 5.a.1a.a
 data_last_update: "06/05/2020"
 data_non_statistical: false
 reporting_status: complete
-graph_title: "Proporción de titulares de explotaciones agrícolas, respecto al total de personas trabajadoras en la agricultura"
+graph_title: regional_indicators.5-a-1a-a-title
 graph_type: line
 ---
