@@ -41,18 +41,6 @@ prose:
             label: "Indicator number"
             translation_key: metadata_fields.indicator
             scope: global
-      - name: "target_name"
-        field:
-            element: text
-            label: "Target name"
-            translation_key: metadata_fields.target
-            scope: global
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target number"
-            translation_key: metadata_fields.target_id
-            scope: global
       - name: "indicator_definition"
         field:
             element: textarea
@@ -97,17 +85,17 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
-      - name: "national_geographical_coverage"
+      - name: "target_name"
         field:
             element: text
-            label: "Geographical coverage"
-            translation_key: metadata_fields.national_geographical_coverage
+            label: "Target name"
+            translation_key: metadata_fields.target
             scope: national
-      - name: "computation_units"
+      - name: "target_id"
         field:
             element: text
-            label: "Unit of measurement"
-            translation_key: metadata_fields.computation_units
+            label: "Target number"
+            translation_key: metadata_fields.target_id
             scope: national
       - name: "computation_definitions"
         field:
@@ -174,6 +162,12 @@ prose:
             element: hidden
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
+            scope: national
+      - name: "data_last_update"
+        field:
+            element: text
+            label: "Data last update"
+            translation_key: metadata_fields.data_last_update
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
