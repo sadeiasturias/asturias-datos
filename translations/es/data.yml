@@ -1,12 +1,11 @@
 Year: Año
 Sex: Sexo
-sex: sexo
 Age: Edad
 Location: Ubicación
 Employment status: Situación laboral
 Type: Tipo
-female: mujer
-male: hombre
+F: mujer
+M: hombre
 number: número
 urban: urbano
 children: niñas y niños

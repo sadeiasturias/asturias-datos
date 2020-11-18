@@ -1,12 +1,11 @@
 Year: Year
 Sex: Sex
-sex: sex
 Age: Age
 Location: Location
 Employment status: Employment status
 Type: Type
-female: female
-male: male
+F: female
+M: male
 number: number
 urban: urban
 children: children
