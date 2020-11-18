@@ -74,7 +74,9 @@ source_url_4: Enlace a la fuente de datos
 source_url_5: Enlace a la fuente de datos
 source_url_6: Enlace a la fuente de datos
 target: Meta
+target_name: Meta asociada
 target_id: Número de meta
+goal_name: Objetivo asociado
 un_custodian_agency: Agencia de custodia de la ONU
 un_designated_tier: Nivel designado por la ONU
 quality_assurance: Seguro de calidad

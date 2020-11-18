@@ -94,6 +94,9 @@ source_url_5: Link to data source
 source_url_6: Link to data source
 # A label describing information - the overall SDG target associated with a particular indicator
 target: Target name
+target_name: Associated target
+# A label describing information - the overall SDG goal associated with a particular indicator
+goal_name: Associated goal
 # A label describing information - the numeric id for the overall SDG target associated with a particular indicator
 target_id: Target number
 # A label describing information - the United Nations custodian agency associated with a particular indicator

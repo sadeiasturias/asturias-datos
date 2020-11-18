@@ -72,18 +72,24 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
-#      - name: "target_name"
-#        field:
-#            element: text
-#            label: "Target name"
-#            translation_key: metadata_fields.target
-#            scope: national
-#      - name: "target_id"
-#        field:
-#            element: text
-#            label: "Target number"
-#            translation_key: metadata_fields.target_id
-#            scope: national
+      - name: "target_name"
+        field:
+            element: text
+            label: "Target name"
+            translation_key: metadata_fields.target_name
+            scope: national
+      - name: "target_id"
+        field:
+            element: text
+            label: "Target number"
+            translation_key: metadata_fields.target_id
+            scope: national
+      - name: "goal_name"
+        field:
+            element: text
+            label: "Goal name"
+            translation_key: metadata_fields.goal_name
+            scope: national
       - name: "computation_definitions"
         field:
             element: textarea
