@@ -2,7 +2,7 @@
 indicator_number: 5.a.1a
 indicator_name: regional_indicators.5-a-1a-c-title
 national_indicator_description: regional_indicators.5-a-1a-c-title
-computation_units: "Porcentaje"
+computation_units: units.PT
 national_geographical_coverage: Asturias
 source_active_1: true
 source_organisation_1: "Encuesta sobre la estructura de las explotaciones agrícolas, INE"
