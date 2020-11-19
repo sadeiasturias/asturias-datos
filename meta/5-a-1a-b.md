@@ -2,7 +2,7 @@
 indicator_number: 5.a.1a
 indicator_name: regional_indicators.5-a-1a-b-title
 national_indicator_description: regional_indicators.5-a-1a-b-title
-target_name: global_targets.5.a-title
+target_name: global_targets.5-a-title
 goal_name: global_goals.5-title
 computation_units: units.PT
 national_geographical_coverage: Asturias
