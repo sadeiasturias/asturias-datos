@@ -9,7 +9,7 @@ computation_units: Unit of measurement
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: Methodology #Link to UN metadata
 # date in text format
-data_last_update: "Data last updated (dd/mm/yyyy)"
+data_last_update: "Last updated (dd/mm/yyyy)"
 # A label describing information - the numeric code for a particular indicator
 indicator: Indicator number
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
@@ -106,4 +106,4 @@ un_designated_tier: UN designated tier
 quality_assurance: Quality assurance
 international_comparability: Comparability with international data/standards
 comments_limitations: Comments and limitations
-rational_interpretation: Rational and interpretation
+rational_interpretation: Rationale and interpretation
