@@ -1,5 +1,5 @@
 ---
-indicator_number: Indicadores no disponibles aún #15.1.1
+indicator_number: Indicadores no disponibles #15.1.1
 indicator_name: global_indicators.15-1-1-title
 national_indicator_description:  #global_indicators.15-1-1-title
 target_name: global_targets.15-1-title
