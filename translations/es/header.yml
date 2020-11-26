@@ -1,5 +1,5 @@
-alpha: Alfa
-disclaimer: Ésta es una web en desarrollo. Agradecemos sus comentarios.
+alpha: Beta
+disclaimer: Ésta es una web en desarrollo. Agradecemos sus <a href="mailto:%email_address">comentarios</a>.
 skip_link: Saltar al contenido principal
 tag_line: 17 Metas para transformar nuestro mundo
 high_contrast: 'contraste alto'
