@@ -8,7 +8,7 @@ computation_units: units.PT
 national_geographical_coverage: Asturias
 source_active_1: true
 source_organisation_1: "Encuesta sobre la estructura de las explotaciones agrícolas, INE"
-goal_meta_link: "https://unstats.un.org/sdgs/metadata/"
+goal_meta_link: "https://github.com/sadeiasturias/asturias-datos/raw/develop/methodology/5.a.1a.b.pdf"
 goal_meta_link_text: Nota metodológica del indicador 5.a.1a.b
 data_last_update: "06/05/2020"
 data_non_statistical: false
