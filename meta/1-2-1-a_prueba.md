@@ -16,4 +16,5 @@ reporting_status: complete
 graph_title: regional_indicators.1-2-1-a-title
 graph_type: line
 data_start_values: [{field: Region, value: Principado de Asturias}]
+tags: [Indicador en pruebas]
 ---
