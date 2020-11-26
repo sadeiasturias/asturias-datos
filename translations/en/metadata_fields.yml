@@ -21,7 +21,7 @@ national_data_update_url: Last update
 # A label describing information - the geographical area covered by a dataset
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available
-national_indicator_description: Indicator description
+national_indicator_description: Description
 national_metadata_update_url: Metadata last updated
 # A label describing information - contact information for the person or agency that provided data
 source_contact_1: Contact details
@@ -94,9 +94,9 @@ source_url_5: Link to data source
 source_url_6: Link to data source
 # A label describing information - the overall SDG target associated with a particular indicator
 target: Target name
-target_name: Associated target
+target_name: Target
 # A label describing information - the overall SDG goal associated with a particular indicator
-goal_name: Associated goal
+goal_name: Goal
 # A label describing information - the numeric id for the overall SDG target associated with a particular indicator
 target_id: Target number
 # A label describing information - the United Nations custodian agency associated with a particular indicator
