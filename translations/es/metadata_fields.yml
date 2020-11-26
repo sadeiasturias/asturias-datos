@@ -8,7 +8,7 @@ indicator: Número de indicador
 indicator_definition: Descripción del indicador global
 indicator_name: Nombre del indicador
 indicator_sort_order: Orden de visualización de los indicadores
-national_data_update_url: Datos actualizados por última vez
+national_data_update_url: Última actualización
 national_geographical_coverage: Cobertura geográfica
 national_indicator_available: Indicador disponible
 national_indicator_description: Descripción del indicador
