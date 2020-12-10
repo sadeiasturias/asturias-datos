@@ -19,6 +19,8 @@ download_geojson_title: Download as GeoJSON
 source: Source
 # A button that displays information about where some data originally came from
 sources: Sources
+# Generic text for the sources
+sadei: "Elaborated by sadei on data from the sources detailed in the methodology"
 # A label describing information - a description of the geographical area covered by a dataset
 geographical_area: Geographical Area
 # A label describing information - the unit of measurement that is being represented in a dataset
