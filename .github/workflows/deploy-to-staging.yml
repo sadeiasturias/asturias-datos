@@ -50,7 +50,7 @@ jobs:
  #       sleep 240
     - name: Rebuild site
       run: |
-        curl -X POST https://api.github.com/repos/sadeiasturias/asturias/dispatches \
+        curl -X POST https://api.github.com/repos/sadeiasturias/indicadores-ods-asturias/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-staging"}'
