@@ -1,2 +1,7 @@
-Year,Value
-2010,181.5
+Year,Region,Sex,Value
+2010,Asturias,,181.5
+2010,Asturias,Hombre,107.4
+2010,Asturias,Mujer,248.8
+2010,España,,182.0
+2010,España,Hombre,114.0
+2010,España,Mujer,247.0

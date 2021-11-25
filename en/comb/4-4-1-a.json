@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2016,2017,2019,2020],"Value":[60.4,61.2,65.0,69.7,66.3]},"edges":[]}
+{"data":{"Year":[2015,2016,2017,2019,2020,2015,2016,2017,2019,2020,2021],"Region":["Asturias","Asturias","Asturias","Asturias","Asturias","Espa\u00f1a","Espa\u00f1a","Espa\u00f1a","Espa\u00f1a","Espa\u00f1a","Espa\u00f1a"],"Value":[60.4,61.2,65.0,69.7,66.3,65.2,65.2,67.5,70.8,72.8,76.2]},"edges":[]}

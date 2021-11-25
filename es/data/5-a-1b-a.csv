@@ -1,4 +1,6 @@
-Year,Value
-2009,48.0
-2013,51.5
-2016,50.2
+Year,Región,Value
+2009,Asturias,48.0
+2013,Asturias,51.5
+2016,Asturias,50.2
+2013,España,32.7
+2016,España,32.4

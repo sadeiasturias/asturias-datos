@@ -1,4 +1,7 @@
-Year,Value
-2011,37.6
-2012,37.6
-2017,37.7
+Year,Región,Value
+2011,Asturias,37.6
+2012,Asturias,37.6
+2017,Asturias,37.7
+2011,España,41.0
+2012,España,41.0
+2017,España,41.9
