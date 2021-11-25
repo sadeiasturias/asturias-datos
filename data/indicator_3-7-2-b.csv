@@ -1,11 +1,22 @@
-Year,Value
-2010,7.8
-2011,7.6
-2012,7.6
-2013,7.6
-2014,7.4
-2015,6.4
-2016,6.9
-2017,7.2
-2018,6.4
-2019,5.4
+Year,Region,Value
+2010,Asturias, 7.8
+2011,Asturias, 7.6
+2012,Asturias, 7.6
+2013,Asturias, 7.6
+2014,Asturias, 7.4
+2015,Asturias, 6.4
+2016,Asturias, 6.9
+2017,Asturias, 7.2
+2018,Asturias, 6.4
+2019,Asturias, 5.4
+2010,España,10.6
+2011,España, 9.5
+2012,España, 9.0
+2013,España, 8.4
+2014,España, 8.1
+2015,España, 7.7
+2016,España, 7.3
+2017,España, 7.0
+2018,España, 6.2
+2019,España, 6.0
+2020,España, 5.3
