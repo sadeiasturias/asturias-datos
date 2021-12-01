@@ -1,6 +1,6 @@
 Year,Region,Sex,Disability_status,Value
 2010,Asturias,,,14.11
-2011,Asturias,,,14.2
+2011,Asturias,,,14.20
 2012,Asturias,,,14.22
 2013,Asturias,,,14.43
 2014,Asturias,,,14.35
@@ -29,29 +29,29 @@ Year,Region,Sex,Disability_status,Value
 2017,Asturias,Mujer,,13.16
 2018,Asturias,Mujer,,13.69
 2019,Asturias,Mujer,,14.82
-2010,Asturias,,Persona con discapacidad,14.4
-2011,Asturias,,Persona con discapacidad,13.1
-2012,Asturias,,Persona con discapacidad,11.9
-2013,Asturias,,Persona con discapacidad,13.1
-2014,Asturias,,Persona con discapacidad,13.3
-2015,Asturias,,Persona con discapacidad,13.5
-2016,Asturias,,Persona con discapacidad,12.7
-2017,Asturias,,Persona con discapacidad,13.1
-2018,Asturias,,Persona con discapacidad,14
-2010,Asturias,,Persona sin discapacidad,14.1
-2011,Asturias,,Persona sin discapacidad,14.2
-2012,Asturias,,Persona sin discapacidad,14.3
-2013,Asturias,,Persona sin discapacidad,14.5
-2014,Asturias,,Persona sin discapacidad,14.4
-2015,Asturias,,Persona sin discapacidad,15
-2016,Asturias,,Persona sin discapacidad,15.1
-2017,Asturias,,Persona sin discapacidad,15.3
-2018,Asturias,,Persona sin discapacidad,15.7
+2010,Asturias,,Persona con discapacidad,14.40
+2011,Asturias,,Persona con discapacidad,13.10
+2012,Asturias,,Persona con discapacidad,11.90
+2013,Asturias,,Persona con discapacidad,13.10
+2014,Asturias,,Persona con discapacidad,13.30
+2015,Asturias,,Persona con discapacidad,13.50
+2016,Asturias,,Persona con discapacidad,12.70
+2017,Asturias,,Persona con discapacidad,13.10
+2018,Asturias,,Persona con discapacidad,14.00
+2010,Asturias,,Persona sin discapacidad,14.10
+2011,Asturias,,Persona sin discapacidad,14.20
+2012,Asturias,,Persona sin discapacidad,14.30
+2013,Asturias,,Persona sin discapacidad,14.50
+2014,Asturias,,Persona sin discapacidad,14.40
+2015,Asturias,,Persona sin discapacidad,15.00
+2016,Asturias,,Persona sin discapacidad,15.10
+2017,Asturias,,Persona sin discapacidad,15.30
+2018,Asturias,,Persona sin discapacidad,15.70
 2010,España,,,14.52
 2011,España,,,14.53
 2012,España,,,14.57
 2013,España,,,14.64
-2014,España,,,14.8
+2014,España,,,14.80
 2015,España,,,15.01
 2016,España,,,14.88
 2017,España,,,15.13
@@ -64,36 +64,36 @@ Year,Region,Sex,Disability_status,Value
 2014,España,Hombre,,15.84
 2015,España,Hombre,,16.04
 2016,España,Hombre,,15.94
-2017,España,Hombre,,16.1
+2017,España,Hombre,,16.10
 2018,España,Hombre,,16.52
 2019,España,Hombre,,16.63
 2010,España,Mujer,,13.24
 2011,España,Mujer,,13.12
-2012,España,Mujer,,13.1
+2012,España,Mujer,,13.10
 2013,España,Mujer,,13.21
 2014,España,Mujer,,13.56
-2015,España,Mujer,,13.8
-2016,España,Mujer,,13.6
+2015,España,Mujer,,13.80
+2016,España,Mujer,,13.60
 2017,España,Mujer,,13.93
 2018,España,Mujer,,14.36
 2019,España,Mujer,,14.92
-2010,España,,Persona con discapacidad,13.1
-2011,España,,Persona con discapacidad,13.2
-2012,España,,Persona con discapacidad,12.8
-2013,España,,Persona con discapacidad,12.6
-2014,España,,Persona con discapacidad,12.3
-2015,España,,Persona con discapacidad,13
-2016,España,,Persona con discapacidad,12.7
-2017,España,,Persona con discapacidad,12.9
-2018,España,,Persona con discapacidad,13.1
-2019,España,,Persona con discapacidad,13.7
-2010,España,,Persona sin discapacidad,14.6
-2011,España,,Persona sin discapacidad,14.6
-2012,España,,Persona sin discapacidad,14.6
-2013,España,,Persona sin discapacidad,14.7
-2014,España,,Persona sin discapacidad,14.9
-2015,España,,Persona sin discapacidad,15.1
-2016,España,,Persona sin discapacidad,14.9
-2017,España,,Persona sin discapacidad,15.2
-2018,España,,Persona sin discapacidad,15.6
-2019,España,,Persona sin discapacidad,15.9
+2010,España,,Persona con discapacidad,13.10
+2011,España,,Persona con discapacidad,13.20
+2012,España,,Persona con discapacidad,12.80
+2013,España,,Persona con discapacidad,12.60
+2014,España,,Persona con discapacidad,12.30
+2015,España,,Persona con discapacidad,13.00
+2016,España,,Persona con discapacidad,12.70
+2017,España,,Persona con discapacidad,12.90
+2018,España,,Persona con discapacidad,13.10
+2019,España,,Persona con discapacidad,13.70
+2010,España,,Persona sin discapacidad,14.60
+2011,España,,Persona sin discapacidad,14.60
+2012,España,,Persona sin discapacidad,14.60
+2013,España,,Persona sin discapacidad,14.70
+2014,España,,Persona sin discapacidad,14.90
+2015,España,,Persona sin discapacidad,15.10
+2016,España,,Persona sin discapacidad,14.90
+2017,España,,Persona sin discapacidad,15.20
+2018,España,,Persona sin discapacidad,15.60
+2019,España,,Persona sin discapacidad,15.90
