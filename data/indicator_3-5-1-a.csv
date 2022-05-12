@@ -1,27 +1,27 @@
 Year,Region,Sex,Value
-2014,Asturias,, 14.52
-2015,Asturias,,  7.76
-2016,Asturias,, 20.83
-2017,Asturias,, 19.81
-2018,Asturias,, 13.96
-2019,Asturias,, 11.47
-2020,Asturias,, 47.17
-2014,Asturias,Hombre, 24.18
-2015,Asturias,Hombre, 13.41
-2016,Asturias,Hombre, 34.68
-2017,Asturias,Hombre, 34.93
-2018,Asturias,Hombre, 24.31
-2019,Asturias,Hombre, 19.48
-2020,Asturias,Hombre, 85.31
-2014,Asturias,Mujer,  4.19
-2015,Asturias,Mujer,  2.57
-2016,Asturias,Mujer,  8.13
-2017,Asturias,Mujer,  5.95
-2018,Asturias,Mujer,  4.49
-2019,Asturias,Mujer,  4.13
-2020,Asturias,Mujer, 12.26
+2014,Asturias,,14.52
+2015,Asturias,,7.76
+2016,Asturias,,20.83
+2017,Asturias,,19.81
+2018,Asturias,,13.96
+2019,Asturias,,11.47
+2020,Asturias,,47.17
+2014,Asturias,Hombre,24.18
+2015,Asturias,Hombre,13.41
+2016,Asturias,Hombre,34.68
+2017,Asturias,Hombre,34.93
+2018,Asturias,Hombre,24.31
+2019,Asturias,Hombre,19.48
+2020,Asturias,Hombre,85.31
+2014,Asturias,Mujer,4.19
+2015,Asturias,Mujer,2.57
+2016,Asturias,Mujer,8.13
+2017,Asturias,Mujer,5.95
+2018,Asturias,Mujer,4.49
+2019,Asturias,Mujer,4.13
+2020,Asturias,Mujer,12.26
 2015,España,,101.93
-2016,España,, 98.25
+2016,España,,98.25
 2017,España,,100.57
 2018,España,,102.66
 2019,España,,106.22
@@ -30,8 +30,8 @@ Year,Region,Sex,Value
 2017,España,Hombre,171.11
 2018,España,Hombre,174.12
 2019,España,Hombre,179.55
-2015,España,Mujer, 32.20
-2016,España,Mujer, 31.53
-2017,España,Mujer, 32.43
-2018,España,Mujer, 33.74
-2019,España,Mujer, 35.54
+2015,España,Mujer,32.2
+2016,España,Mujer,31.53
+2017,España,Mujer,32.43
+2018,España,Mujer,33.74
+2019,España,Mujer,35.54
