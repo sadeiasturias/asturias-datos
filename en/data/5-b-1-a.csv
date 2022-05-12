@@ -29,8 +29,8 @@ Year,Region,Sex,Value
 2019,Asturias,Mujer,97.6487010801719
 2020,Asturias,Mujer,98.9343388395017
 2021,Asturias,Mujer,98.4739311738379
-2010,España,,92.295354115412
-2011,España,,92.7855252971575
+2010,España,,92.3
+2011,España,,92.79
 2012,España,,94.38
 2013,España,,94.18
 2014,España,,95.01
@@ -39,8 +39,8 @@ Year,Region,Sex,Value
 2019,España,,96.92
 2020,España,,98.89
 2021,España,,99.17
-2010,España,Hombre,92.414480123268
-2011,España,Hombre,93.3778118657003
+2010,España,Hombre,92.41
+2011,España,Hombre,93.38
 2012,España,Hombre,94.65
 2013,España,Hombre,94.01
 2014,España,Hombre,94.68
@@ -49,8 +49,8 @@ Year,Region,Sex,Value
 2019,España,Hombre,96.73
 2020,España,Hombre,98.86
 2021,España,Hombre,99.12
-2010,España,Mujer,92.175644434692
-2011,España,Mujer,92.1916527908079
+2010,España,Mujer,92.18
+2011,España,Mujer,92.19
 2012,España,Mujer,94.1
 2013,España,Mujer,94.35
 2014,España,Mujer,95.33
