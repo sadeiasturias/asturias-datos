@@ -10,7 +10,8 @@ Year,Region,Sex,Value
 2018,Asturias,,98.6
 2019,Asturias,,98.5
 2020,Asturias,,98.8
-2021,Asturias,,99.9
+2021,Asturias,,99
+2022,Asturias,,99.9
 2010,Asturias,Hombre,99.8
 2011,Asturias,Hombre,100
 2012,Asturias,Hombre,99.8
@@ -22,6 +23,7 @@ Year,Region,Sex,Value
 2018,Asturias,Hombre,98.7
 2019,Asturias,Hombre,98.1
 2020,Asturias,Hombre,98.5
+2021,Asturias,Hombre,98.8
 2010,Asturias,Mujer,100
 2011,Asturias,Mujer,99.7
 2012,Asturias,Mujer,99.5
@@ -33,6 +35,7 @@ Year,Region,Sex,Value
 2018,Asturias,Mujer,98.4
 2019,Asturias,Mujer,98.9
 2020,Asturias,Mujer,99.1
+2021,Asturias,Mujer,99.3
 2010,España,,98.5
 2011,España,,98.1
 2012,España,,97.7
