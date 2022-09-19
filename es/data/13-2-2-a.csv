@@ -1,14 +1,15 @@
 Year,Región,Value
-2010,Asturias,0.96
-2011,Asturias,1.05
+2010,Asturias,0.97
+2011,Asturias,1.06
 2012,Asturias,1.16
 2013,Asturias,1.16
 2014,Asturias,1.19
 2015,Asturias,1.4
 2016,Asturias,1.13
-2017,Asturias,1.16
+2017,Asturias,1.17
 2018,Asturias,1.07
 2019,Asturias,0.85
+2020,Asturias,0.8
 2010,España,0.34
 2011,España,0.34
 2012,España,0.34
@@ -19,3 +20,4 @@ Year,Región,Value
 2017,España,0.3
 2018,España,0.29
 2019,España,0.27
+2020,España,0.26
