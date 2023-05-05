@@ -24,12 +24,18 @@ Indicator,Disaggregations,Number of disaggregations
 #11-1-1-a,Region,1
 #11-1-1-b,Region,1
 #11-3-2-a,Region,1
+#11-4-1-a,Region,1
+#11-4-1-b,Region,1
+#11-4-1-c,Region,1
 #11-5-1-a,Region,1
 #11-5-2-a,Region,1
 #11-6-1-a,Region,1
 #11-6-1-b,Region,1
 #11-6-1-c,Region,1
 #11-6-1-d,Region,1
+#11-6-2-a,Region,1
+#11-6-2-b,Region,1
+#12-1-1-a,Region,1
 #12-6-1-a,Region,1
 #12-6-1-b,Region,1
 #13-1-1-a,Region,1
@@ -44,6 +50,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-1-4-a,Region,1
 #16-2-2-a,Region,1
 #16-3-2-a,Region,1
+#16-6-2-a,Region,1
 #16-7-1-a,Region,1
 #16-7-1-b,Region,1
 #16-7-1-c,Region,1
@@ -62,6 +69,13 @@ Indicator,Disaggregations,Number of disaggregations
 #17-1-1-a,Region,1
 #17-1-2-a,Region,1
 #17-1-2-b,Region,1
+#17-13-1-a,Region,1
+#17-13-1-b,Region,1
+#17-13-1-c,Region,1
+#17-13-1-d,Region,1
+#17-13-1-e,Region,1
+#17-13-1-f,Region,1
+#17-13-1-g,Region,1
 #17-18-2-a,Region,1
 #17-18-3-a,Region,1
 #17-19-2a-a,Region,1
@@ -72,9 +86,14 @@ Indicator,Disaggregations,Number of disaggregations
 #17-3-1-d,Region,1
 #17-3-2-a,Region,1
 #17-3-2-b,Region,1
+#17-6-1-a,Region,1
 #17-8-1-a,Region,1
 #2-2-2-a,Region,1
 #2-4-1-a,Region,1
+#2-4-1-b,Region,1
+#2-4-1-c,Region,1
+#2-c-1-a,Region,1
+#2-c-1-b,Region,1
 #3-1-1-a,Region,1
 #3-1-2-a,Region,1
 #3-2-1-a,Region,1
@@ -109,6 +128,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1-d,Region,1
 #4-1-1-a,"Region, Sex",2
 #4-1-1-d,"Region, Sex",2
+#4-1-2-a,Region,1
+#4-1-2-d,Region,1
 #4-2-2-a,"Region, Sex",2
 #4-3-1-a,Region,1
 #4-3-1-b,Region,1
@@ -166,6 +187,13 @@ Indicator,Disaggregations,Number of disaggregations
 #8-9-1-3-b,Region,1
 #8-9-1-4-a,Region,1
 #8-9-1-4-b,Region,1
+#8-9-1-a,Region,1
+#8-9-1-b,Region,1
+#8-9-1-c,Region,1
+#8-9-1-d,Region,1
+#8-9-1-e,Region,1
+#8-9-1-f,Region,1
+#8-9-1-g,"Region, Sex",2
 #8-b-1-a,Region,1
 #8-b-1-b,Region,1
 #9-2-1-a,Region,1
@@ -180,5 +208,6 @@ Indicator,Disaggregations,Number of disaggregations
 #9-4-1-d,Region,1
 #9-5-1-a,Region,1
 #9-5-2-a,Region,1
+#9-b-1-a,Region,1
 #9-c-1-a,Region,1
 #9-c-1-b,Region,1

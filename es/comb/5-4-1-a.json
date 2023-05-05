@@ -1,1 +1,1 @@
-{"data":{"Year":[2010,2010,2010,2010,2010,2010],"Regi\u00f3n":["Asturias","Asturias","Asturias","Espa\u00f1a","Espa\u00f1a","Espa\u00f1a"],"Sexo":[null,"Hombre","Mujer",null,"Hombre","Mujer"],"Value":[181.53,107.42,248.8,182.0,114.0,247.0]},"edges":{"From":["Regi\u00f3n"],"To":["Sexo"]}}
+{"data":{"Year":[2010,2010,2010,2010,2010,2010],"Regi\u00f3n":["Asturias","Asturias","Asturias","Espa\u00f1a","Espa\u00f1a","Espa\u00f1a"],"Sexo":[null,"Mujer","Hombre",null,"Hombre","Mujer"],"Value":[181.53,248.8,107.42,182.0,114.0,247.0]},"edges":{"From":["Regi\u00f3n"],"To":["Sexo"]}}

@@ -1,11 +1,4 @@
 Year,Región,Diversidad funcional,Value
-2014,Asturias,,21.25
-2015,Asturias,,19.21
-2016,Asturias,,17.77
-2017,Asturias,,13.87
-2018,Asturias,,13.8
-2019,Asturias,,14.38
-2020,Asturias,,14.29
 2014,Asturias,Persona con discapacidad,32.56
 2015,Asturias,Persona con discapacidad,18.57
 2016,Asturias,Persona con discapacidad,19.18
@@ -13,6 +6,7 @@ Year,Región,Diversidad funcional,Value
 2018,Asturias,Persona con discapacidad,19.7
 2019,Asturias,Persona con discapacidad,16.88
 2020,Asturias,Persona con discapacidad,21.9
+2021,Asturias,Persona con discapacidad,19.19
 2014,Asturias,Persona sin discapacidad,20.88
 2015,Asturias,Persona sin discapacidad,19.23
 2016,Asturias,Persona sin discapacidad,17.7
@@ -20,6 +14,15 @@ Year,Región,Diversidad funcional,Value
 2018,Asturias,Persona sin discapacidad,13.56
 2019,Asturias,Persona sin discapacidad,14.27
 2020,Asturias,Persona sin discapacidad,13.99
+2021,Asturias,Persona sin discapacidad,12.37
+2014,Asturias,,21.25
+2015,Asturias,,19.21
+2016,Asturias,,17.77
+2017,Asturias,,13.87
+2018,Asturias,,13.8
+2019,Asturias,,14.38
+2020,Asturias,,14.29
+2021,Asturias,,12.62
 2014,España,,24.6
 2015,España,,22.2
 2016,España,,19.7
