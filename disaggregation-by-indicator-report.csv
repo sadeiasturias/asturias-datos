@@ -49,8 +49,21 @@ Indicator,Disaggregations,Number of disaggregations
 #15-8-1-a,Region,1
 #16-1-4-a,Region,1
 #16-2-2-a,Region,1
+#16-2-2-b,Region,1
+#16-2-2-c,Region,1
+#16-2-2-d,Region,1
+#16-2-2-e,Region,1
 #16-3-2-a,Region,1
 #16-6-2-a,Region,1
+#16-6-2-b,Region,1
+#16-6-2-c,Region,1
+#16-6-2-d,Region,1
+#16-6-2-e,Region,1
+#16-6-2-f,Region,1
+#16-6-2-g,Region,1
+#16-6-2-h,Region,1
+#16-6-2-i,Region,1
+#16-6-2-j,Region,1
 #16-7-1-a,Region,1
 #16-7-1-b,Region,1
 #16-7-1-c,Region,1
@@ -87,6 +100,10 @@ Indicator,Disaggregations,Number of disaggregations
 #17-3-2-a,Region,1
 #17-3-2-b,Region,1
 #17-6-1-a,Region,1
+#17-6-1-b,Region,1
+#17-6-1-c,Region,1
+#17-6-1-d,Region,1
+#17-6-1-e,Region,1
 #17-8-1-a,Region,1
 #2-2-2-a,Region,1
 #2-4-1-a,Region,1
@@ -128,8 +145,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1-d,Region,1
 #4-1-1-a,"Region, Sex",2
 #4-1-1-d,"Region, Sex",2
-#4-1-2-a,Region,1
-#4-1-2-d,Region,1
+#4-1-2-a,"Region, Sex",2
+#4-1-2-d,"Region, Sex",2
 #4-2-2-a,"Region, Sex",2
 #4-3-1-a,Region,1
 #4-3-1-b,Region,1
