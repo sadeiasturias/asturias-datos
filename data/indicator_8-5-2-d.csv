@@ -30,6 +30,7 @@ Year,Region,Disability_status,Value
 2018,España,,15.4
 2019,España,,14.2
 2020,España,,15.6
+2021,España,,14.9
 2014,España,Persona con discapacidad,32.7
 2015,España,Persona con discapacidad,31
 2016,España,Persona con discapacidad,28.6
@@ -37,6 +38,7 @@ Year,Region,Disability_status,Value
 2018,España,Persona con discapacidad,25.2
 2019,España,Persona con discapacidad,23.9
 2020,España,Persona con discapacidad,22.2
+2021,España,Persona con discapacidad,22.5
 2014,España,Persona sin discapacidad,24.3
 2015,España,Persona sin discapacidad,21.9
 2016,España,Persona sin discapacidad,19.5
@@ -44,3 +46,4 @@ Year,Region,Disability_status,Value
 2018,España,Persona sin discapacidad,15.1
 2019,España,Persona sin discapacidad,13.9
 2020,España,Persona sin discapacidad,15.4
+2021,España,Persona sin discapacidad,14.7
