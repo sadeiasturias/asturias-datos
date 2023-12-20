@@ -10,6 +10,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,Asturias,,,15.64
 2019,Asturias,,,16.29
 2020,Asturias,,,16.12
+2021,Asturias,,,16.28
 2010,Asturias,,Persona con discapacidad,14.4
 2011,Asturias,,Persona con discapacidad,13.1
 2012,Asturias,,Persona con discapacidad,11.9
@@ -21,6 +22,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,Asturias,,Persona con discapacidad,14.0
 2019,Asturias,,Persona con discapacidad,14.2
 2020,Asturias,,Persona con discapacidad,14.2
+2021,Asturias,,Persona con discapacidad,14.5
 2010,Asturias,Mujer,,12.41
 2011,Asturias,Mujer,,12.31
 2012,Asturias,Mujer,,12.28
@@ -32,6 +34,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,Asturias,Mujer,,13.69
 2019,Asturias,Mujer,,14.82
 2020,Asturias,Mujer,,14.87
+2021,Asturias,Mujer,,15.14
 2010,Asturias,Hombre,,15.46
 2011,Asturias,Hombre,,15.73
 2012,Asturias,Hombre,,15.81
@@ -43,6 +46,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,Asturias,Hombre,,17.32
 2019,Asturias,Hombre,,17.62
 2020,Asturias,Hombre,,17.3
+2021,Asturias,Hombre,,17.33
 2010,Asturias,,Persona sin discapacidad,14.1
 2011,Asturias,,Persona sin discapacidad,14.2
 2012,Asturias,,Persona sin discapacidad,14.3
@@ -54,6 +58,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,Asturias,,Persona sin discapacidad,15.7
 2019,Asturias,,Persona sin discapacidad,16.4
 2020,Asturias,,Persona sin discapacidad,16.2
+2021,Asturias,,Persona sin discapacidad,16.4
 2010,España,,,14.52
 2011,España,,,14.53
 2012,España,,,14.57
@@ -65,6 +70,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,España,,,15.54
 2019,España,,,15.85
 2020,España,,,16.15
+2021,España,,,16.54
 2010,España,Hombre,,15.56
 2011,España,Hombre,,15.68
 2012,España,Hombre,,15.83
@@ -76,6 +82,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,España,Hombre,,16.52
 2019,España,Hombre,,16.63
 2020,España,Hombre,,16.92
+2021,España,Hombre,,17.3
 2010,España,Mujer,,13.24
 2011,España,Mujer,,13.12
 2012,España,Mujer,,13.1
@@ -87,6 +94,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,España,Mujer,,14.36
 2019,España,Mujer,,14.92
 2020,España,Mujer,,15.22
+2021,España,Mujer,,15.61
 2010,España,,Persona con discapacidad,13.1
 2011,España,,Persona con discapacidad,13.2
 2012,España,,Persona con discapacidad,12.8
@@ -98,6 +106,7 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,España,,Persona con discapacidad,13.1
 2019,España,,Persona con discapacidad,13.7
 2020,España,,Persona con discapacidad,13.9
+2021,España,,Persona con discapacidad,14.3
 2010,España,,Persona sin discapacidad,14.6
 2011,España,,Persona sin discapacidad,14.6
 2012,España,,Persona sin discapacidad,14.6
@@ -109,3 +118,4 @@ Year,Región,Sexo,Diversidad funcional,Value
 2018,España,,Persona sin discapacidad,15.6
 2019,España,,Persona sin discapacidad,15.9
 2020,España,,Persona sin discapacidad,16.2
+2021,España,,Persona sin discapacidad,16.6
