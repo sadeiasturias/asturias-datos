@@ -29,13 +29,13 @@ jobs:
     - uses: actions/checkout@v3
     - name: Set up Python 3.7
       uses: actions/setup-python@v3
-      #with:
-      #  python-version: 3.7
+      with:
+        python-version: 3.7
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
-        pip install pydantic --upgrade
+     #   pip install pydantic --upgrade
     - name: Build data
       run: |
         python scripts/build_data.py
