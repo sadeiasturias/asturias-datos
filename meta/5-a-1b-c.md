@@ -10,7 +10,7 @@ source_active_1: true
 source_organisation_1: indicator.sadei
 goal_meta_link: "https://github.com/sadeiasturias/asturias-datos/raw/develop/descargas/metodologia/5.a.1b.c.pdf"
 goal_meta_link_text: Ficha metodológica del indicador 5.a.1b.c
-data_last_update: "04/05/2023"
+data_last_update: "04/04/2023"
 data_non_statistical: false
 reporting_status: complete
 graph_title: regional_indicators.5-a-1b-c-title
