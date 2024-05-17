@@ -52,6 +52,7 @@ Year,Región,Sexo,Value
 2020,España,,98.9
 2021,España,,98.3
 2022,España,,98.6
+2023,España,,98.5
 2010,España,Hombre,97.9
 2011,España,Hombre,97.5
 2012,España,Hombre,97.5
@@ -65,6 +66,7 @@ Year,Región,Sexo,Value
 2020,España,Hombre,98.9
 2021,España,Hombre,98.4
 2022,España,Hombre,98.6
+2023,España,Hombre,98.8
 2010,España,Mujer,99.2
 2011,España,Mujer,98.8
 2012,España,Mujer,98.0
@@ -77,4 +79,5 @@ Year,Región,Sexo,Value
 2019,España,Mujer,98.9
 2020,España,Mujer,98.9
 2021,España,Mujer,98.3
-2022,España,Mujer,98.5
+2022,España,Mujer,98.6
+2023,España,Mujer,98.3
