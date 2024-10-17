@@ -207,7 +207,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-10-2-a,Region,1
 #8-2-1-a,Region,1
 #8-2-1-b,Region,1
-#8-5-1-a,"Region, Disability_status, Sex",3
+#8-5-1-a,"Region, Sex, Disability_status",3
 #8-5-2-a,"Region, Sex",2
 #8-5-2-d,"Region, Disability_status",2
 #8-5-2-g,"Region, Sex",2
