@@ -1,22 +1,4 @@
 Year,Region,Disability status,Value
-2014,Asturias,Persona con discapacidad,32.56
-2015,Asturias,Persona con discapacidad,18.57
-2016,Asturias,Persona con discapacidad,19.18
-2017,Asturias,Persona con discapacidad,19.15
-2018,Asturias,Persona con discapacidad,19.7
-2019,Asturias,Persona con discapacidad,16.88
-2020,Asturias,Persona con discapacidad,21.9
-2021,Asturias,Persona con discapacidad,19.19
-2022,Asturias,Persona con discapacidad,21.56
-2014,Asturias,Persona sin discapacidad,20.88
-2015,Asturias,Persona sin discapacidad,19.23
-2016,Asturias,Persona sin discapacidad,17.7
-2017,Asturias,Persona sin discapacidad,13.64
-2018,Asturias,Persona sin discapacidad,13.56
-2019,Asturias,Persona sin discapacidad,14.27
-2020,Asturias,Persona sin discapacidad,13.99
-2021,Asturias,Persona sin discapacidad,12.37
-2022,Asturias,Persona sin discapacidad,12.44
 2014,Asturias,,21.25
 2015,Asturias,,19.21
 2016,Asturias,,17.77
@@ -26,6 +8,27 @@ Year,Region,Disability status,Value
 2020,Asturias,,14.29
 2021,Asturias,,12.62
 2022,Asturias,,12.82
+2023,Asturias,,12.28
+2014,Asturias,Persona con discapacidad,32.56
+2015,Asturias,Persona con discapacidad,18.57
+2016,Asturias,Persona con discapacidad,19.18
+2017,Asturias,Persona con discapacidad,19.15
+2018,Asturias,Persona con discapacidad,19.7
+2019,Asturias,Persona con discapacidad,16.88
+2020,Asturias,Persona con discapacidad,21.9
+2021,Asturias,Persona con discapacidad,19.19
+2022,Asturias,Persona con discapacidad,21.56
+2023,Asturias,Persona con discapacidad,14.35
+2014,Asturias,Persona sin discapacidad,20.88
+2015,Asturias,Persona sin discapacidad,19.23
+2016,Asturias,Persona sin discapacidad,17.7
+2017,Asturias,Persona sin discapacidad,13.64
+2018,Asturias,Persona sin discapacidad,13.56
+2019,Asturias,Persona sin discapacidad,14.27
+2020,Asturias,Persona sin discapacidad,13.99
+2021,Asturias,Persona sin discapacidad,12.37
+2022,Asturias,Persona sin discapacidad,12.44
+2023,Asturias,Persona sin discapacidad,12.2
 2014,España,,24.6
 2015,España,,22.2
 2016,España,,19.7
@@ -33,8 +36,9 @@ Year,Region,Disability status,Value
 2018,España,,15.4
 2019,España,,14.2
 2020,España,,15.6
-2021,España,,14.9
-2022,España,,13.0
+2021,España,,15.0
+2022,España,,13.1
+2023,España,,12.3
 2014,España,Persona con discapacidad,32.7
 2015,España,Persona con discapacidad,31.0
 2016,España,Persona con discapacidad,28.6
@@ -42,8 +46,9 @@ Year,Region,Disability status,Value
 2018,España,Persona con discapacidad,25.2
 2019,España,Persona con discapacidad,23.9
 2020,España,Persona con discapacidad,22.2
-2021,España,Persona con discapacidad,22.5
-2022,España,Persona con discapacidad,21.4
+2021,España,Persona con discapacidad,22.4
+2022,España,Persona con discapacidad,21.6
+2023,España,Persona con discapacidad,19.7
 2014,España,Persona sin discapacidad,24.3
 2015,España,Persona sin discapacidad,21.9
 2016,España,Persona sin discapacidad,19.5
@@ -51,5 +56,6 @@ Year,Region,Disability status,Value
 2018,España,Persona sin discapacidad,15.1
 2019,España,Persona sin discapacidad,13.9
 2020,España,Persona sin discapacidad,15.4
-2021,España,Persona sin discapacidad,14.7
-2022,España,Persona sin discapacidad,12.8
+2021,España,Persona sin discapacidad,14.8
+2022,España,Persona sin discapacidad,12.9
+2023,España,Persona sin discapacidad,12.0

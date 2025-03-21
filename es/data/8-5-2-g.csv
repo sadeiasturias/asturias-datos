@@ -13,6 +13,7 @@ Year,Región,Sexo,Value
 2021,Asturias,,5.7
 2022,Asturias,,5.22
 2023,Asturias,,5.66
+2024,Asturias,,4.5
 2010,Asturias,Hombre,5.94
 2011,Asturias,Hombre,7.75
 2012,Asturias,Hombre,10.23
@@ -27,6 +28,7 @@ Year,Región,Sexo,Value
 2021,Asturias,Hombre,5.52
 2022,Asturias,Hombre,4.95
 2023,Asturias,Hombre,5.48
+2024,Asturias,Hombre,3.83
 2010,Asturias,Mujer,5.84
 2011,Asturias,Mujer,6.7
 2012,Asturias,Mujer,8.87
@@ -41,3 +43,4 @@ Year,Región,Sexo,Value
 2021,Asturias,Mujer,5.9
 2022,Asturias,Mujer,5.52
 2023,Asturias,Mujer,5.85
+2024,Asturias,Mujer,5.21
