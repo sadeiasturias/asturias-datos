@@ -9,6 +9,7 @@ Year,Region,Disability_status,Value
 2021,Asturias,,12.62
 2022,Asturias,,12.82
 2023,Asturias,,12.28
+2024,Asturias,,10.16
 2014,Asturias,Persona con discapacidad,32.56
 2015,Asturias,Persona con discapacidad,18.57
 2016,Asturias,Persona con discapacidad,19.18
@@ -19,6 +20,7 @@ Year,Region,Disability_status,Value
 2021,Asturias,Persona con discapacidad,19.19
 2022,Asturias,Persona con discapacidad,21.56
 2023,Asturias,Persona con discapacidad,14.35
+2024,Asturias,Persona con discapacidad,14.35
 2014,Asturias,Persona sin discapacidad,20.88
 2015,Asturias,Persona sin discapacidad,19.23
 2016,Asturias,Persona sin discapacidad,17.7
@@ -29,6 +31,7 @@ Year,Region,Disability_status,Value
 2021,Asturias,Persona sin discapacidad,12.37
 2022,Asturias,Persona sin discapacidad,12.44
 2023,Asturias,Persona sin discapacidad,12.2
+2024,Asturias,Persona sin discapacidad,10.02
 2014,España,,24.6
 2015,España,,22.2
 2016,España,,19.7
@@ -39,6 +42,7 @@ Year,Region,Disability_status,Value
 2021,España,,15
 2022,España,,13.1
 2023,España,,12.3
+2024,España,,11.4
 2014,España,Persona con discapacidad,32.7
 2015,España,Persona con discapacidad,31
 2016,España,Persona con discapacidad,28.6
@@ -49,6 +53,7 @@ Year,Region,Disability_status,Value
 2021,España,Persona con discapacidad,22.4
 2022,España,Persona con discapacidad,21.6
 2023,España,Persona con discapacidad,19.7
+2024,España,Persona con discapacidad,18.5
 2014,España,Persona sin discapacidad,24.3
 2015,España,Persona sin discapacidad,21.9
 2016,España,Persona sin discapacidad,19.5
@@ -59,3 +64,4 @@ Year,Region,Disability_status,Value
 2021,España,Persona sin discapacidad,14.8
 2022,España,Persona sin discapacidad,12.9
 2023,España,Persona sin discapacidad,12
+2024,España,Persona sin discapacidad,11.2

@@ -9,6 +9,7 @@ Year,Region,Sex,Value
 2022,Asturias,,76.25
 2023,Asturias,,81.42
 2024,Asturias,,83.32
+2025,Asturias,,83.13
 2015,Asturias,Hombre,69.92
 2016,Asturias,Hombre,73.44
 2017,Asturias,Hombre,72
@@ -19,6 +20,7 @@ Year,Region,Sex,Value
 2022,Asturias,Hombre,75.37
 2023,Asturias,Hombre,79.28
 2024,Asturias,Hombre,82.02
+2025,Asturias,Hombre,81.18
 2015,Asturias,Mujer,74.96
 2016,Asturias,Mujer,72.93
 2017,Asturias,Mujer,74.5
@@ -29,6 +31,7 @@ Year,Region,Sex,Value
 2022,Asturias,Mujer,77.32
 2023,Asturias,Mujer,83.68
 2024,Asturias,Mujer,84.83
+2025,Asturias,Mujer,85.23
 2015,España,,68.75
 2016,España,,69.67
 2017,España,,70.43
@@ -38,6 +41,8 @@ Year,Region,Sex,Value
 2021,España,,78.03
 2022,España,,78.27
 2023,España,,78.5
+2024,España,,79.45
+2025,España,,79.83
 2015,España,Hombre,62.94
 2016,España,Hombre,64.3
 2017,España,Hombre,65.16
@@ -47,6 +52,8 @@ Year,Region,Sex,Value
 2021,España,Hombre,74.33
 2022,España,Hombre,75.04
 2023,España,Hombre,74.76
+2024,España,Hombre,74.37
+2025,España,Hombre,74.73
 2015,España,Mujer,74.86
 2016,España,Mujer,75.36
 2017,España,Mujer,76.09
@@ -56,3 +63,5 @@ Year,Region,Sex,Value
 2021,España,Mujer,81.9
 2022,España,Mujer,81.6
 2023,España,Mujer,82.47
+2024,España,Mujer,84.84
+2025,España,Mujer,85.27
