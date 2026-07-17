@@ -13,12 +13,13 @@ Year,Region,Value
 2021,Asturias,97.78
 2022,Asturias,95.14
 2023,Asturias,92.74
+2024,Asturias,92.48
 2010,España,95.91
 2011,España,98.81
 2012,España,103.8
 2013,España,103.62
 2014,España,103.09
-2015,España,102.61
+2015,España,102.64
 2016,España,99.93
 2017,España,99.64
 2018,España,101.96
@@ -26,3 +27,4 @@ Year,Region,Value
 2020,España,111.92
 2021,España,106.78
 2022,España,101.72
+2023,España,100.0

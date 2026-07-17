@@ -13,6 +13,7 @@ Year,Región,Sexo,Value
 2021,Asturias,,0.05
 2022,Asturias,,0.06
 2023,Asturias,,0.05
+2024,Asturias,,0.07
 2010,Asturias,Hombre,0.16
 2011,Asturias,Hombre,0.13
 2012,Asturias,Hombre,0.12
@@ -27,6 +28,7 @@ Year,Región,Sexo,Value
 2021,Asturias,Hombre,0.08
 2022,Asturias,Hombre,0.1
 2023,Asturias,Hombre,0.09
+2024,Asturias,Hombre,0.11
 2010,Asturias,Mujer,0.04
 2011,Asturias,Mujer,0.03
 2012,Asturias,Mujer,0.03
@@ -41,13 +43,14 @@ Year,Región,Sexo,Value
 2021,Asturias,Mujer,0.02
 2022,Asturias,Mujer,0.02
 2023,Asturias,Mujer,0.02
+2024,Asturias,Mujer,0.02
 2010,España,,0.12
 2011,España,,0.11
-2012,España,,0.1
-2013,España,,0.09
+2012,España,,0.11
+2013,España,,0.1
 2014,España,,0.1
 2015,España,,0.09
-2016,España,,0.09
+2016,España,,0.1
 2017,España,,0.09
 2018,España,,0.09
 2019,España,,0.08
@@ -55,10 +58,11 @@ Year,Región,Sexo,Value
 2021,España,,0.07
 2022,España,,0.07
 2023,España,,0.07
-2010,España,Hombre,0.19
+2024,España,,0.07
+2010,España,Hombre,0.2
 2011,España,Hombre,0.18
 2012,España,Hombre,0.18
-2013,España,Hombre,0.16
+2013,España,Hombre,0.17
 2014,España,Hombre,0.17
 2015,España,Hombre,0.16
 2016,España,Hombre,0.16
@@ -69,6 +73,7 @@ Year,Región,Sexo,Value
 2021,España,Hombre,0.12
 2022,España,Hombre,0.12
 2023,España,Hombre,0.12
+2024,España,Hombre,0.12
 2010,España,Mujer,0.04
 2011,España,Mujer,0.04
 2012,España,Mujer,0.03
@@ -83,3 +88,4 @@ Year,Región,Sexo,Value
 2021,España,Mujer,0.02
 2022,España,Mujer,0.02
 2023,España,Mujer,0.02
+2024,España,Mujer,0.02
